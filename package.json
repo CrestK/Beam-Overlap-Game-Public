@@ -1,0 +1,9 @@
+{
+  "name": "find-the-overlap",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Browser game: steer a pump beam with a mirror and a delay stage until it overlaps the probe in space and time.",
+  "scripts": {
+    "test": "node --test"
+  }
+}
